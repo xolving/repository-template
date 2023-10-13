@@ -5,8 +5,9 @@ body:
   - type: textarea
     attributes:
       label: Describe
+      description: |
+      무엇을 할 것인가요?
       placeholder: |
-        회원가입 UI 작성
   - type: textarea
     attributes:
       label: Additional
